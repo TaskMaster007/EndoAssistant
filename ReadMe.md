@@ -1,4 +1,4 @@
-# Endoscopy Text-Image Pairs Dataset
+# EndoAssitant: Endoscopy Text-Image Pairs Dataset
 
 This repository contains code for extracting and processing endoscopy text-image pairs, focusing on the filtering, extraction, and classification of data from endoscopy videos.
 
